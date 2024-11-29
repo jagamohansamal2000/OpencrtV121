@@ -1,0 +1,5 @@
+Starting TC001 AccountRegistrationTest 
+Clicked on MyAccount Link pageObjects.HomePage@61a91912
+Clicked On Register
+Providing CCustomer Details...
+Validating expected message nVN789 
