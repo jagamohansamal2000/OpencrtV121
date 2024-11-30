@@ -16,7 +16,7 @@ public class TC_003_LoginDDT extends BaseClass{
 	public void verify_loginDDT(String email, String pwd, String exp) 
 	{
 		
-	logger.info("***  starting TC_003_LoginDDT  updated ***");	
+	logger.info("***  starting TC_003_LoginDDT ***");	
 		
 	
 	try 
